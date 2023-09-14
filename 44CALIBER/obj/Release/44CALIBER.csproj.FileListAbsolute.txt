@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\obj\Release\44CALIBER.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\obj\Release\44CALIBER.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\build\release\Loader.exe.config
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\build\release\Loader.exe
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\build\release\Loader.pdb
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\obj\Release\Loader.exe
+C:\Users\User\Desktop\44CALIBER-main\44CALIBER\obj\Release\Loader.pdb
