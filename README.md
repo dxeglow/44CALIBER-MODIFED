@@ -13,6 +13,7 @@ Added autostart (if you don't want to use it, delete all lines from 22 to 28 in 
 To receive logs, you need to go to "Resources/Discord/DiscordWebhook.cs", then create a server on Discord, create a webhook, copy its URL, and paste it into the "defaultWebhook" field. In the "defaultUserAgent" field, you can enter any name, the same goes for "defaultUserName". Do not touch "defaultAvatar" (I don't know how to use it myself lol).
 
 Log format:
+https://i.imgur.com/8H8dMro.png
 
 # [CREDITS]
 [Original repository link](https://github.com/razexgod/44CALIBER)
